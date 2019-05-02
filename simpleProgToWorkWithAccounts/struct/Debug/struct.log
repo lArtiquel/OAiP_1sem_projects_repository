@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\артём\visual studia projects\struct\struct\source.cpp(98): warning C4018: <: несоответствие типов со знаком и без знака
+d:\артём\visual studia projects\struct\struct\source.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+  struct.vcxproj -> D:\Артём\VISUAL STUDIA PROJECTS\struct\Debug\struct.exe
+  struct.vcxproj -> D:\Артём\VISUAL STUDIA PROJECTS\struct\Debug\struct.pdb (Partial PDB)
